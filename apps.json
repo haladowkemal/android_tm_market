@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "id": "app1",
+      "name": "Sozluk",
+      "version": "1.0",
+      "size": "13 Mb",
+      "icon": "uri",
+      "apk": "uri"
+    }
+  ]
+}
