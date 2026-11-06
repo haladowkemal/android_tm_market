@@ -7,6 +7,38 @@
       "size": "13 MB",
       "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/gumdag_namaz_wagty.apk"
+    },
+    {
+      "id": "enw",
+      "name": "Ekerem Namaz Wagty",
+      "version": "1.0",
+      "size": "13 MB",
+      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/ekerem_namaz_wagty.apk"
+    },
+    {
+      "id": "gnw_tv",
+      "name": "Gumdag Namaz Wagty",
+      "version": "1.0",
+      "size": "8 MB",
+      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/gnm_tv.apk"
+    },
+    {
+      "id": "enw_tv",
+      "name": "Ekerem Namaz Wagty",
+      "version": "1.0",
+      "size": "8 MB",
+      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/enw_tv.apk"
+    },
+    {
+      "id": "oklo",
+      "name": "Oklo",
+      "version": "1.0",
+      "size": "10 MB",
+      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/oklo_ico.png?raw=true",
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/Oklo.apk"
     }
   ]
 }
