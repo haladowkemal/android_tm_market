@@ -5,7 +5,7 @@
       "name": "Gumdag Namaz Wagty",
       "version": "1.0",
       "size": "13 MB",
-      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
+      "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/logo_blue.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gumdag_namaz_wagty.apk"
     },
     {
@@ -13,7 +13,7 @@
       "name": "Ekerem Namaz Wagty",
       "version": "1.0",
       "size": "13 MB",
-      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
+      "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/logo_blue.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/ekerem_namaz_wagty.apk"
     },
     {
@@ -21,7 +21,7 @@
       "name": "Gumdag Namaz Wagty",
       "version": "1.0",
       "size": "8 MB",
-      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
+      "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/logo_blue.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gnm_tv.apk"
     },
     {
@@ -29,7 +29,7 @@
       "name": "Ekerem Namaz Wagty",
       "version": "1.0",
       "size": "8 MB",
-      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
+      "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/logo_blue.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/enw_tv.apk"
     },
     {
@@ -37,7 +37,7 @@
       "name": "Oklo",
       "version": "1.0",
       "size": "10 MB",
-      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/oklo_ico.png?raw=true",
+      "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/oklo_ico.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/oklo.apk"
     }
   ]
