@@ -5,8 +5,8 @@
       "name": "Gumdag Namaz Wagty",
       "version": "1.0",
       "size": "13 MB",
-      "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/logo_blue.png",
-      "apk": "https://github.com/haladowkemal/android_tm_market/releases/download/v1.0/gumdag_namaz_wagty.apk"
+      "icon": "https://github.com/haladowkemal/android_tm_market/blob/main/icons/logo_blue.png?raw=true",
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/gumdag_namaz_wagty.apk"
     }
   ]
 }
