@@ -6,7 +6,9 @@
       "version": "1.0",
       "size": "13 MB",
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
-      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gumdag_namaz_wagty.apk"
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gumdag_namaz_wagty.apk",
+      "description": "",
+      "screenshots": ""
     },
     {
       "id": "enw",
@@ -14,7 +16,9 @@
       "version": "1.0",
       "size": "13 MB",
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
-      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/ekerem_namaz_wagty.apk"
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/ekerem_namaz_wagty.apk",
+      "description": "",
+      "screenshots": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/ekerem_clock_screen.png"
     },
     {
       "id": "gnw_tv",
@@ -22,7 +26,9 @@
       "version": "1.0",
       "size": "8 MB",
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
-      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gnw_tv.apk"
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gnw_tv.apk",
+      "description": "",
+      "screenshots": ""
     },
     {
       "id": "enw_tv",
@@ -30,7 +36,9 @@
       "version": "1.0",
       "size": "8 MB",
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
-      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/enw_tv.apk"
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/enw_tv.apk",
+      "description": "",
+      "screenshots": ""
     },
     {
       "id": "oklo",
@@ -38,7 +46,9 @@
       "version": "1.0",
       "size": "10 MB",
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/oklo_ico.png",
-      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/oklo.apk"
+      "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/oklo.apk",
+      "description": "",
+      "screenshots": ""
     }
   ]
 }
