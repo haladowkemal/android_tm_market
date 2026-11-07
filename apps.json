@@ -7,9 +7,11 @@
       "size": "13 MB",
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gumdag_namaz_wagty.apk",
-      "description": "",
+      "description": "fuhgosidfuh iurfhgtoiurh hriuhgtoieruh ieruhyt iurhtg iuruiheowi uhruhiru",
       "screenshots": [
         "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/gumdag_clock_screen.jpg",
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/gumdag_calendar_screen.jpg",
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/tesbih_screen.jpg"
       ]
     },
     {
@@ -20,7 +22,11 @@
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/ekerem_namaz_wagty.apk",
       "description": "",
-      "screenshots": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/ekerem_clock_screen.png"
+      "screenshots": [
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/ekerem_clock_screen.jpg",
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/ekerem_calendar_screen.jpg",
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/tesbih_screen.jpg"
+      ]
     },
     {
       "id": "gnw_tv",
@@ -30,7 +36,9 @@
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gnw_tv.apk",
       "description": "",
-      "screenshots": ""
+      "screenshots": [
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/gumdag_tv_screen.jpg"
+      ]
     },
     {
       "id": "enw_tv",
@@ -40,7 +48,9 @@
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/enw_tv.apk",
       "description": "",
-      "screenshots": ""
+      "screenshots": [
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/ekerem_tv_screen.jpg"
+      ]
     },
     {
       "id": "oklo",
@@ -50,7 +60,11 @@
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/oklo_ico.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/oklo.apk",
       "description": "",
-      "screenshots": ""
+      "screenshots": [
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/oklo_home.jpg",
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/oklo_mp3.jpg",
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/oklo_apk.jpg"
+      ]
     }
   ]
 }
