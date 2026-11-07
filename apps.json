@@ -8,7 +8,9 @@
       "icon": "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/namaz_ico.png",
       "apk": "https://github.com/haladowkemal/android_tm_market/releases/latest/download/gumdag_namaz_wagty.apk",
       "description": "",
-      "screenshots": ""
+      "screenshots": [
+        "https://raw.githubusercontent.com/haladowkemal/android_tm_market/main/icons/gumdag_clock_screen.jpg",
+      ]
     },
     {
       "id": "enw",
